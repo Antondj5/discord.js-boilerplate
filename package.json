@@ -1,0 +1,24 @@
+{
+  "name": "botexample",
+  "version": "1.0.0",
+  "description": "A Simple Discord Bot Example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "example",
+    "example",
+    "discord",
+    "bot"
+  ],
+  "author": "pusheen-dev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "glob": "^7.1.2",
+    "node-opus": "^0.2.6"
+  }
+}
